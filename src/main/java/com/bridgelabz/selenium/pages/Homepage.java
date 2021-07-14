@@ -12,17 +12,18 @@ import org.openqa.selenium.support.PageFactory;
  * created Logout method for logout into application
  */
 
-public class Logout extends BaseClass {
+public class Homepage extends BaseClass {
 
-    /* @Description - Using FindBy for locating elements */
+    /** Description - Using FindBy for locating elements */
 
     @FindBy(xpath = "//img[@class='s45kfl79 emlxlaya bkmhp75w spb7xbtv']")
-    WebElement clickonAccount;
-
+    WebElement clickOnAccount;
+    //image[@class='s45kfl79 emlxlaya bkmhp75w spb7xbtv']
     @FindBy(xpath = "//span[@class='d2edcug0 hpfvmrgz qv66sw1b c1et5uql lr9zc1uh a8c37x1j keod5gw0 nxhoafnm aigsh9s9 d3f4x2em fe6kdd0r mau55g9w c8b282yb iv3no6db jq4qci2q a3bd9o3v ekzkrbhg oo9gr5id hzawbc8m'][contains(.,'Log Out')]")
     WebElement logoutBtn;
 
-    public Logout(WebDriver driver)
+
+    public Homepage(WebDriver driver)
     {
         PageFactory.initElements(driver, this);
     }
@@ -31,7 +32,7 @@ public class Logout extends BaseClass {
     {
         Thread.sleep(500);
         LogClass.info("clicking on account for logout into application");
-        clickonAccount.click();
+        clickOnAccount.click();
         Thread.sleep(500);
         LogClass.info("clicking on logout for successfully logout into application");
         logoutBtn.click();

@@ -18,7 +18,7 @@ public class Login extends BaseClass {
     /* @Description - Using FindBy for locating elements */
 
     @FindBy(id = "email")
-    WebElement emailid;
+    WebElement userEmailId;
 
     @FindBy(name = "pass")
     WebElement userPassword;
@@ -26,9 +26,10 @@ public class Login extends BaseClass {
     @FindBy(xpath = "//button[@type='submit']")
     WebElement loginBtn;
 
-      /*create a parameterized constuctor.
-       * initialization
+      /** create a parameterized constructor.
+       *  initialization
        */
+
     public Login(WebDriver driver)
     {
         PageFactory.initElements(driver, this);
@@ -36,15 +37,15 @@ public class Login extends BaseClass {
 
     public void loginTo_Application() throws InterruptedException {
         Thread.sleep(300);
-        LogClass.info("sending email using sendkeys");
-        emailid.sendKeys("latikakhairnar10@gmail.com");
+        LogClass.info("sending email using sendKeys");
+        userEmailId.sendKeys("latikakhairnar10@gmail.com");
         Thread.sleep(200);
-        LogClass.info("sending password using sendkeys");
+        LogClass.info("sending password using sendKeys");
         userPassword.sendKeys("latika@123");
         Thread.sleep(200);
         LogClass.info("clicking on loginBtn for logging into application");
         loginBtn.click();
-        Thread.sleep(200);
+        Thread.sleep(500);
         LogClass.info("getting Title");
         driver.getTitle();
     }

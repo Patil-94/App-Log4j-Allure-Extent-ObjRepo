@@ -27,6 +27,11 @@ public class LogClass extends BaseClass {
     {
         logger.fatal(message);
     }
-    //Debug
+    //Debug Level Logs
+    public static void debug(String message)
+    {
+        logger.debug(message);
+    }
+
 }
 

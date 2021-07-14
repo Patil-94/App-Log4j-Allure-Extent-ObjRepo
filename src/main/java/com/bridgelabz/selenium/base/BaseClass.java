@@ -17,17 +17,19 @@ public class BaseClass {
 
     public void setup() throws InterruptedException
     {
+
         LogClass.info("This test is start");
         //Handling browser level show notification popup window
         ChromeOptions chromeOptions=new ChromeOptions();
         chromeOptions.addArguments("--disable-notifications");
 
-        //launch cromedriver
+        //launch chromedriver
         LogClass.info("launching the browser");
         WebDriverManager.chromedriver().setup();
         driver=new ChromeDriver(chromeOptions);
 
-        /*  launch facebook url and maximaize windows */
+        /**  launch facebook url and maximize windows **/
+
         LogClass.info("This is navigating the url");
         driver.manage().window().maximize();
         driver.get("https://www.facebook.com/");
@@ -38,7 +40,7 @@ public class BaseClass {
     //execute after test
     @AfterTest
 
-    /* teardown method for close the browser*/
+    /** teardown method for close the browser **/
 
     public void tearDown()
     {

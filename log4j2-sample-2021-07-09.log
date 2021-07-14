@@ -1,0 +1,85 @@
+[INFO ] 2021-07-09 09:49:02.033 [Test worker] LogClass - This test is start
+[INFO ] 2021-07-09 09:49:11.585 [Test worker] LogClass - This is navigating the url
+[INFO ] 2021-07-09 09:49:22.550 [Test worker] LogClass - sending email using sendkeys
+[INFO ] 2021-07-09 09:49:23.592 [Test worker] LogClass - sending password using sendkeys
+[INFO ] 2021-07-09 09:49:23.945 [Test worker] LogClass - clicking on loginBtn for logging into application
+[INFO ] 2021-07-09 09:49:24.289 [Test worker] LogClass - getting Title
+[INFO ] 2021-07-09 09:49:34.893 [Test worker] LogClass - clicking on account for logout into application
+[INFO ] 2021-07-09 09:49:36.397 [Test worker] LogClass - clicking on logout for successfully logout into application
+[INFO ] 2021-07-09 09:50:47.329 [Test worker] LogClass - This test is start
+[INFO ] 2021-07-09 09:51:02.553 [Test worker] LogClass - This is navigating the url
+[INFO ] 2021-07-09 09:51:12.625 [Test worker] LogClass - sending email using sendkeys
+[INFO ] 2021-07-09 09:51:13.121 [Test worker] LogClass - sending password using sendkeys
+[INFO ] 2021-07-09 09:51:13.498 [Test worker] LogClass - clicking on loginBtn for logging into application
+[INFO ] 2021-07-09 09:51:13.797 [Test worker] LogClass - getting Title
+[INFO ] 2021-07-09 09:51:28.434 [Test worker] LogClass - clicking on account for logout into application
+[INFO ] 2021-07-09 09:52:07.282 [Test worker] LogClass - This test is start
+[INFO ] 2021-07-09 09:52:13.578 [Test worker] LogClass - This is navigating the url
+[INFO ] 2021-07-09 09:52:24.221 [Test worker] LogClass - sending email using sendkeys
+[INFO ] 2021-07-09 09:52:24.686 [Test worker] LogClass - sending password using sendkeys
+[INFO ] 2021-07-09 09:52:25.143 [Test worker] LogClass - clicking on loginBtn for logging into application
+[INFO ] 2021-07-09 09:52:25.437 [Test worker] LogClass - getting Title
+[INFO ] 2021-07-09 09:52:36.164 [Test worker] LogClass - clicking on account for logout into application
+[INFO ] 2021-07-09 09:53:02.414 [Test worker] LogClass - This test is start
+[INFO ] 2021-07-09 09:53:12.474 [Test worker] LogClass - This is navigating the url
+[INFO ] 2021-07-09 09:53:24.087 [Test worker] LogClass - sending email using sendkeys
+[INFO ] 2021-07-09 09:53:24.595 [Test worker] LogClass - sending password using sendkeys
+[INFO ] 2021-07-09 09:53:25.006 [Test worker] LogClass - clicking on loginBtn for logging into application
+[INFO ] 2021-07-09 09:53:25.415 [Test worker] LogClass - getting Title
+[INFO ] 2021-07-09 10:01:52.071 [Test worker] LogClass - This test is start
+[INFO ] 2021-07-09 10:01:52.086 [Test worker] LogClass - launching the browser
+[INFO ] 2021-07-09 10:02:05.806 [Test worker] LogClass - This is navigating the url
+[INFO ] 2021-07-09 10:02:16.239 [Test worker] LogClass - sending email using sendkeys
+[INFO ] 2021-07-09 10:02:16.871 [Test worker] LogClass - sending password using sendkeys
+[INFO ] 2021-07-09 10:02:17.314 [Test worker] LogClass - clicking on loginBtn for logging into application
+[INFO ] 2021-07-09 10:02:17.958 [Test worker] LogClass - getting Title
+[INFO ] 2021-07-09 10:02:31.541 [Test worker] LogClass - clicking on account for logout into application
+[INFO ] 2021-07-09 10:02:35.690 [Test worker] LogClass - clicking on logout for successfully logout into application
+[INFO ] 2021-07-09 10:31:37.556 [Test worker] LogClass - This test is start
+[INFO ] 2021-07-09 10:31:37.650 [Test worker] LogClass - launching the browser
+[INFO ] 2021-07-09 10:31:58.049 [Test worker] LogClass - This is navigating the url
+[INFO ] 2021-07-09 10:32:24.243 [Test worker] LogClass - sending email using sendkeys
+[INFO ] 2021-07-09 10:32:27.009 [Test worker] LogClass - sending password using sendkeys
+[INFO ] 2021-07-09 10:32:27.565 [Test worker] LogClass - clicking on loginBtn for logging into application
+[INFO ] 2021-07-09 10:32:28.505 [Test worker] LogClass - getting Title
+[INFO ] 2021-07-09 10:32:47.127 [Test worker] LogClass - clicking on account for logout into application
+[INFO ] 2021-07-09 10:36:56.383 [Test worker] LogClass - This test is start
+[INFO ] 2021-07-09 10:36:56.430 [Test worker] LogClass - launching the browser
+[INFO ] 2021-07-09 10:37:21.612 [Test worker] LogClass - This is navigating the url
+[INFO ] 2021-07-09 10:37:37.663 [Test worker] LogClass - sending email using sendkeys
+[INFO ] 2021-07-09 10:37:39.901 [Test worker] LogClass - sending password using sendkeys
+[INFO ] 2021-07-09 10:37:40.379 [Test worker] LogClass - clicking on loginBtn for logging into application
+[INFO ] 2021-07-09 10:37:41.943 [Test worker] LogClass - getting Title
+[INFO ] 2021-07-09 10:40:11.633 [Test worker] LogClass - This test is start
+[INFO ] 2021-07-09 10:40:11.665 [Test worker] LogClass - launching the browser
+[INFO ] 2021-07-09 10:40:26.547 [Test worker] LogClass - This is navigating the url
+[INFO ] 2021-07-09 10:40:41.529 [Test worker] LogClass - sending email using sendkeys
+[INFO ] 2021-07-09 10:40:41.986 [Test worker] LogClass - sending password using sendkeys
+[INFO ] 2021-07-09 10:40:42.378 [Test worker] LogClass - clicking on loginBtn for logging into application
+[INFO ] 2021-07-09 10:41:05.391 [Test worker] LogClass - getting Title
+[INFO ] 2021-07-09 10:41:50.456 [Test worker] LogClass - This test is start
+[INFO ] 2021-07-09 10:41:50.487 [Test worker] LogClass - launching the browser
+[INFO ] 2021-07-09 10:41:57.456 [Test worker] LogClass - This is navigating the url
+[INFO ] 2021-07-09 10:42:11.263 [Test worker] LogClass - sending email using sendkeys
+[INFO ] 2021-07-09 10:42:12.683 [Test worker] LogClass - sending password using sendkeys
+[INFO ] 2021-07-09 10:42:13.308 [Test worker] LogClass - clicking on loginBtn for logging into application
+[INFO ] 2021-07-09 10:42:14.499 [Test worker] LogClass - getting Title
+[INFO ] 2021-07-09 10:42:29.864 [Test worker] LogClass - clicking on account for logout into application
+[INFO ] 2021-07-09 10:42:32.698 [Test worker] LogClass - clicking on logout for successfully logout into application
+[INFO ] 2021-07-09 10:46:02.995 [Test worker] LogClass - This test is start
+[INFO ] 2021-07-09 10:46:03.026 [Test worker] LogClass - launching the browser
+[INFO ] 2021-07-09 10:46:08.394 [Test worker] LogClass - This is navigating the url
+[INFO ] 2021-07-09 10:46:16.215 [Test worker] LogClass - sending email using sendkeys
+[INFO ] 2021-07-09 10:46:16.861 [Test worker] LogClass - sending password using sendkeys
+[INFO ] 2021-07-09 10:46:17.319 [Test worker] LogClass - clicking on loginBtn for logging into application
+[INFO ] 2021-07-09 10:46:17.778 [Test worker] LogClass - getting Title
+[INFO ] 2021-07-09 13:26:20.092 [Test worker] LogClass - This test is start
+[INFO ] 2021-07-09 13:26:20.654 [Test worker] LogClass - launching the browser
+[INFO ] 2021-07-09 13:28:54.245 [Test worker] LogClass - This is navigating the url
+[INFO ] 2021-07-09 13:36:08.920 [Test worker] LogClass - This test is start
+[INFO ] 2021-07-09 13:36:09.139 [Test worker] LogClass - launching the browser
+[INFO ] 2021-07-09 13:36:43.622 [Test worker] LogClass - This is navigating the url
+[INFO ] 2021-07-09 13:37:07.079 [Test worker] LogClass - sending email using sendkeys
+[INFO ] 2021-07-09 13:37:08.378 [Test worker] LogClass - sending password using sendkeys
+[INFO ] 2021-07-09 13:37:08.887 [Test worker] LogClass - clicking on loginBtn for logging into application
+[INFO ] 2021-07-09 13:37:09.491 [Test worker] LogClass - getting Title

@@ -1,0 +1,56 @@
+[INFO ] 2021-07-11 19:30:18.649 [main] LogClass - This test is start
+[INFO ] 2021-07-11 19:30:18.753 [main] LogClass - launching the browser
+[INFO ] 2021-07-11 19:30:57.616 [main] LogClass - This is navigating the url
+[INFO ] 2021-07-11 19:31:12.531 [main] LogClass - sending email using sendkeys
+[INFO ] 2021-07-11 19:31:17.312 [main] LogClass - sending password using sendkeys
+[INFO ] 2021-07-11 19:31:17.979 [main] LogClass - clicking on loginBtn for logging into application
+[INFO ] 2021-07-11 19:31:19.748 [main] LogClass - getting Title
+[INFO ] 2021-07-11 19:31:29.457 [main] LogClass - loginTo_Application_with_valid_credentials:take success screenshot in Ilistner method
+[INFO ] 2021-07-11 19:35:30.704 [main] LogClass - This test is start
+[INFO ] 2021-07-11 19:35:30.851 [main] LogClass - launching the browser
+[INFO ] 2021-07-11 19:35:50.081 [main] LogClass - This is navigating the url
+[INFO ] 2021-07-11 19:36:00.774 [main] LogClass - sending email using sendkeys
+[INFO ] 2021-07-11 19:36:04.014 [main] LogClass - sending password using sendkeys
+[INFO ] 2021-07-11 19:36:04.448 [main] LogClass - clicking on loginBtn for logging into application
+[INFO ] 2021-07-11 19:36:05.651 [main] LogClass - getting Title
+[INFO ] 2021-07-11 19:36:24.073 [main] LogClass - loginTo_Application_with_valid_credentials:take success screenshot in Ilistner method
+[INFO ] 2021-07-11 19:36:29.055 [main] LogClass - sending email using sendkeys
+[INFO ] 2021-07-11 19:36:30.885 [main] LogClass - logoutToApplication:take failed screenshot in Ilistner method
+[INFO ] 2021-07-11 19:39:39.407 [main] LogClass - This test is start
+[INFO ] 2021-07-11 19:39:39.429 [main] LogClass - launching the browser
+[INFO ] 2021-07-11 19:39:46.421 [main] LogClass - This is navigating the url
+[INFO ] 2021-07-11 19:39:56.267 [main] LogClass - sending email using sendkeys
+[INFO ] 2021-07-11 19:39:58.173 [main] LogClass - sending password using sendkeys
+[INFO ] 2021-07-11 19:39:58.689 [main] LogClass - clicking on loginBtn for logging into application
+[INFO ] 2021-07-11 19:39:59.783 [main] LogClass - getting Title
+[INFO ] 2021-07-11 19:40:34.198 [main] LogClass - loginTo_Application_with_valid_credentials:take success screenshot in Ilistner method
+[INFO ] 2021-07-11 19:40:39.507 [main] LogClass - sending email using sendkeys
+[INFO ] 2021-07-11 19:40:39.742 [main] LogClass - logoutToApplication:take failed screenshot in Ilistner method
+[INFO ] 2021-07-11 20:20:43.602 [Test worker] LogClass - This test is start
+[INFO ] 2021-07-11 20:20:43.662 [Test worker] LogClass - launching the browser
+[INFO ] 2021-07-11 20:21:16.821 [Test worker] LogClass - This is navigating the url
+[INFO ] 2021-07-11 20:21:39.091 [Test worker] LogClass - sending email using sendkeys
+[INFO ] 2021-07-11 20:23:31.069 [Test worker] LogClass - This test is start
+[INFO ] 2021-07-11 20:23:31.088 [Test worker] LogClass - launching the browser
+[INFO ] 2021-07-11 20:23:51.175 [Test worker] LogClass - This is navigating the url
+[INFO ] 2021-07-11 20:24:02.542 [Test worker] LogClass - sending email using sendkeys
+[INFO ] 2021-07-11 20:40:06.795 [Test worker] LogClass - This test is start
+[INFO ] 2021-07-11 20:40:06.865 [Test worker] LogClass - launching the browser
+[INFO ] 2021-07-11 20:40:49.421 [Test worker] LogClass - This is navigating the url
+[INFO ] 2021-07-11 20:41:05.323 [Test worker] LogClass - sending email using sendkeys
+[INFO ] 2021-07-11 20:44:50.907 [Test worker] LogClass - This test is start
+[INFO ] 2021-07-11 20:44:50.981 [Test worker] LogClass - launching the browser
+[INFO ] 2021-07-11 20:45:09.338 [Test worker] LogClass - This is navigating the url
+[INFO ] 2021-07-11 20:45:21.280 [Test worker] LogClass - sending email using sendkeys
+[INFO ] 2021-07-11 20:48:37.493 [Test worker] LogClass - This test is start
+[INFO ] 2021-07-11 20:48:37.517 [Test worker] LogClass - launching the browser
+[INFO ] 2021-07-11 20:48:53.013 [Test worker] LogClass - This is navigating the url
+[INFO ] 2021-07-11 20:49:06.594 [Test worker] LogClass - sending email using sendkeys
+[INFO ] 2021-07-11 20:50:25.659 [Test worker] LogClass - This test is start
+[INFO ] 2021-07-11 20:50:25.697 [Test worker] LogClass - launching the browser
+[INFO ] 2021-07-11 20:50:44.322 [Test worker] LogClass - This is navigating the url
+[INFO ] 2021-07-11 20:51:00.297 [Test worker] LogClass - sending email using sendkeys
+[INFO ] 2021-07-11 22:41:52.200 [Test worker] LogClass - This test is start
+[INFO ] 2021-07-11 22:41:52.278 [Test worker] LogClass - launching the browser
+[INFO ] 2021-07-11 22:43:01.837 [Test worker] LogClass - This is navigating the url
+[INFO ] 2021-07-11 22:43:23.991 [Test worker] LogClass - sending email using sendkeys
